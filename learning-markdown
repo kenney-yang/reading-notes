@@ -1,10 +1,14 @@
 # My Learning Journal
->
-## Day 01 Learning Markdown
 
-Markdown has its own syntax that must be used to style your content
-- Headings is marked with one # for its biggest font and the more #'s is used, the smaller it gets
-  # BIGGEST
-  ###### smallest
+> ## Day 01 Learning Markdown
+
+## Markdown is a lightweight markup language for generating html files.
+
+## What we learned and did on Day 01
+- Configured our computers for professional software development, setting up a command line interface (Terminal) and installing VS Code, git, NodeJS, npm, and more.
+- Wrote code in a code editor as opposed to general-purpose document creation software.
+- Navigated folders and created files from the command line, while verifying their work in the operating system's GUI file explorer.
+
+
 
 
