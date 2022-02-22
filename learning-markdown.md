@@ -1,6 +1,6 @@
 # My Learning Journal
 
-> ## Day 01 Learning Markdown
+## Day 01 Learning Markdown
 
 ## Markdown is a lightweight markup language for generating html files.
 
