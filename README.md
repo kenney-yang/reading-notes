@@ -5,5 +5,5 @@ A growth mindset is the inner drive to always want to improve and never settle. 
 
 - Keep at it no matter how difficult it is!
 - Find the time to practice and learn codes **no matter what**!
-- Immerse and connect with my like minded individuals!
+- Immerse and connect with like minded individuals!
 
