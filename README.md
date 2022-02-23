@@ -1,7 +1,8 @@
 # My Learning Journal
 >
 ## Growth Mindset
-A growth mindset is the inner drive to always want to improve and never settle. ~~Coding is too hard.~~ I can do **anything** I put my mind to. 
+
+A growth mindset is the inner drive to always want to improve and never settle. ~~Coding is too hard.~~ I can do **anything** I put my mind to.
 
 - [x] Keep at it no matter how difficult it is! 📝
 - [x] Find the time to practice and learn codes **no matter what**! 🥊
@@ -13,5 +14,5 @@ A growth mindset is the inner drive to always want to improve and never settle. 
 
 You can find my github profile [here](https://github.com/kenney-yang)
 
-[Learning Markdown](https://kenney-yang.github.io/reading-notes/learning-markdown)   
+[Learning Markdown](https://kenney-yang.github.io/reading-notes/learning-markdown)
 [Coder's Computer](https://kenney-yang.github.io/reading-notes/coder-computer)
