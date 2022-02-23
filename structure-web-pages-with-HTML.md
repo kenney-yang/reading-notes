@@ -5,9 +5,9 @@ Hypertext allows web pages to links together.
 
 ## Anatomy of an HTML element
 
-The  **Element** are used to describe the structure of the page (e.g. headings, subheadings, paragraphs).
+- The  **Element** are used to describe the structure of the page (e.g. headings, subheadings, paragraphs).
 
-Let's use paragraph as an example:  
+- Let's use paragraph as an example:  
 
 \<p> at the front is the **Opening Tag** while \</p> is the **Closing Tag**
 The text in between the tags is known as the **Content**
