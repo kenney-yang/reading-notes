@@ -42,7 +42,7 @@ HTML is like framing a house, as you're building out your website, you will need
 
 To add a link first wrap your text with an \<a> element  
 You will then add an href attribute with the web-address inside double quotes after href  
-Ex. \<a \href="https/">Mozilla Manifesto</a>
+Ex. \<a \href="https/">Disney World</a>
 
 ## WireFrame Design
 
