@@ -7,6 +7,7 @@
 - Majority of the websites are written in JAVASCRIPT.
 - In the financial industry, they're written in JAVA. 
 - You can ask the user for inputs and enteract with the users (behavior).
+- DOM means page
 
 ### How the language is written?
 - camelCase (it starts with a lowercase before another word that starts with Uppercase)
