@@ -38,4 +38,4 @@ features that are must-have’s, but I think these features are a good start.
 - file.png, file.gif, file.jpg - an image.
 - List the contents of a directory, including hidden files, we'll use **ls -a** command.
 
-- [Home Page](https://kenney-yang.github.io/reading-notes)
+- [Home Page](https://kenney-yang.github.io/reading-notes/)
