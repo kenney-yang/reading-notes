@@ -4,25 +4,23 @@
 
 ### What is CSS?
 - (Cascading Style Sheets) allows you to create great-looking web pages, but how does it work under the hood? This article explains what CSS is, with a simple syntax example, and also covers some key terms about the language.
+- If HTML is the kitchen then CSS would be like the interior design feature of a restaurant. For example, the color of the walls, the decors, the layout of the furniture, etc. 
 - <div> is great to have a box to house everything together
 
 ### Apply Color for CSS?
 - Color is a good way to start learning about CSS
 - You can either type in the color you want to use or get the specific code that is specific to a specific color
+- Color.adobe.com gives you a wide selection of colors in real time with associated color codes called Hex.
 
-### What we learned and completed on Day 02
+### Id and class when using <div> 
+- With multiple <div>, you would need class to differentiate which div you’re referring to. 
+- You can name whatever you want in class, it only needs to makes sense to you.
+- Id is another way in Class to target a div (single element)
+- Inside of the inspect tool in Chrome, the upper left icon can directly target what you're looking for in the codes. 
 
-- Add, Committ, Push
-- Add = adding to your project
-- Committ = saving your codes
-- Push = getting it deployed so it can go live
-- Git mostly relies on local operations because most necessary information can be found in local resources.
-- Each time you save a changed version of your project, it's called commit
 
-## Cloning
 
-- You can also create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL:
-- By clonng the file, you have copied all versions of all files for a project. 
+
   
 
   
