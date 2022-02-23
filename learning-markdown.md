@@ -9,6 +9,6 @@
 - Wrote code in a code editor as opposed to general-purpose document creation software.
 - Navigated folders and created files from the command line, while verifying their work in the operating system's GUI file explorer.
 
-
+[Home Page](kenney-yang.github.io/reading-notes/)
 
 
