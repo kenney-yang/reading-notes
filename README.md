@@ -14,8 +14,8 @@ A growth mindset is the inner drive to always want to improve and never settle. 
 
 You can find my github profile [here](https://github.com/kenney-yang)
 
-- [learning-markdown](https://kenney-yang.github.io/reading-notes/learning-markdown).  
+- [learning-markdown](https://kenney-yang.github.io/reading-notes/learning-markdown) 
 - [the-coders-computer](https://kenney-yang.github.io/reading-notes/the-coders-computer) 
-- [revision-and-the-Cloud](https://rogermreyes.github.io/reading-notes/revisions-and-the-Cloud)
-- [structure-web-pages-with-HTML](https://rogermreyes.github.io/reading-notes/structure-web-pages-with-HTML)
+- [revision-and-the-Cloud](https://kenney-yang.github.io/reading-notes/revisions-and-the-Cloud)
+- [structure-web-pages-with-HTML](https://kenney-yang.github.io/reading-notes/structure-web-pages-with-HTML)
 
