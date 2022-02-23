@@ -12,3 +12,5 @@ A growth mindset is the inner drive to always want to improve and never settle. 
 >My name is Kenney, I have over ten years of experience producing creatives and innovative projects to exclusively support senior officials and executives within government and civilian enterprises. Credible visualist with top level skills in Photoshop and Adobe Illustrator. A trilingual veteran fluent in Mandarin, Taiwanese, and English.
 
 You can find my github profile [here](https://github.com/kenney-yang)
+
+[Learning Markdown](https://kenney-yang.github.io/reading-notes/learning-markdown)
