@@ -13,7 +13,7 @@
 - Color.adobe.com gives you a wide selection of colors in real time with associated color codes called Hex.
 
 ### Id and class when using <div> 
-- With multiple <div>, you would need class to differentiate which div you’re referring to. 
+- With multiple div, you would need class to differentiate which div you’re referring to. 
 - You can name whatever you want in class, it only needs to makes sense to you.
 - Id is another way in Class to target a div (single element)
 - Inside of the inspect tool in Chrome, the upper left icon can directly target what you're looking for in the codes. 
