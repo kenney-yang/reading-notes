@@ -17,10 +17,18 @@
 - You can name whatever you want in class, it only needs to makes sense to you.
 - Id is another way in Class to target a div (single element)
 - Inside of the inspect tool in Chrome, the upper left icon can directly target what you're looking for in the codes. 
+- Example: body {color: rgb(201, 76, 76)
 
+### Property Values
+- **Color** specifies the text color. There are **A LOT** of color values to choose from
+- **Initial** sets this property to its value
+- **Inherit** inherits this propery from its parent element
 
-
-
+### Cascading Order
+**ORDER DOES MATTER**
+- 1) Inline style (inside an HTML element)
+- 2) External and internal style sheets (in the head section)
+- 3) Browser default
   
 
   
