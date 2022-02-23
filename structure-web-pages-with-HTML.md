@@ -1,7 +1,7 @@
 
 # HTML: Hyper Text Markup Language
 
-Hypertext allows web pages to links together. 
+# Day 02 Hypertext allows web pages to links together. 
 
 ## Anatomy of an HTML element
 
