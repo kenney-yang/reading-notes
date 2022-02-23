@@ -24,4 +24,4 @@
 - GitHub pages seems to help organize everything for you and this is the one we learned to build our pages here.
 - Links. [GitHub Pages] (https://pages.github.com/)
   
-[Home Page](kenney-yang.github.io/reading-notes/)
+[Home Page](https://kenney-yang.github.io/reading-notes/)
