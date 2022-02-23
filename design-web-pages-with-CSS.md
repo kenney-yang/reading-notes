@@ -5,7 +5,7 @@
 ### What is CSS?
 - (Cascading Style Sheets) allows you to create great-looking web pages, but how does it work under the hood? This article explains what CSS is, with a simple syntax example, and also covers some key terms about the language.
 - If HTML is the kitchen then CSS would be like the interior design feature of a restaurant. For example, the color of the walls, the decors, the layout of the furniture, etc. 
-- <div> is great to have a box to house everything together
+- div is great to have a box to house everything together
 
 ### Apply Color for CSS?
 - Color is a good way to start learning about CSS
