@@ -1,7 +1,8 @@
+# My Learning Journal
 
-# HTML: Hyper Text Markup Language
+## Day 02 HTML: Hyper Text Markup Language
 
-# Day 02 Hypertext allows web pages to links together. 
+# Hypertext allows web pages to links together. 
 
 ## Anatomy of an HTML element
 
