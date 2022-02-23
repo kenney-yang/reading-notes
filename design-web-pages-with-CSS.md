@@ -1,6 +1,6 @@
 # My Learning Journal
 
-## Day 02 Design web pages with CSS
+## Day 03 Design web pages with CSS
 
 ### What is CSS?
 - (Cascading Style Sheets) allows you to create great-looking web pages, but how does it work under the hood? This article explains what CSS is, with a simple syntax example, and also covers some key terms about the language.
