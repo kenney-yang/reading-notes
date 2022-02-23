@@ -18,4 +18,5 @@ You can find my github profile [here](https://github.com/kenney-yang)
 - [the-coders-computer](https://kenney-yang.github.io/reading-notes/coder-computer) 
 - [revision-and-the-Cloud](https://kenney-yang.github.io/reading-notes/revision-and-the-Cloud)
 - [structure-web-pages-with-HTML](https://kenney-yang.github.io/reading-notes/structure-web-pages-with-HTML)
+- [design-web-pages-with-CSS](https://kenney-yang.github.io/reading-notes/design-web-pages-with-CSS)
 
