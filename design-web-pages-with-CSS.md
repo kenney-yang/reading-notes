@@ -3,20 +3,12 @@
 ## Day 02 Design web pages with CSS
 
 ### What is CSS?
-- Git is a Version Control System (DVCS) that stores data in a file system made up of snapshots.
-- Record changes in what is called a repository (repo), where we can see who made changes "when" and "what"
-- Without Version Control System, we would have to store different versions on our systems and constantly emailing back and forth (inefficient!)
-- Simply put, it ## 1) Tracks history and 2) Allows developers to work together ##
+- (Cascading Style Sheets) allows you to create great-looking web pages, but how does it work under the hood? This article explains what CSS is, with a simple syntax example, and also covers some key terms about the language.
+- <div> is great to have a box to house everything together
 
-### Why Git?
-- There is two VCS: centralized (single point of failure if server fails) and distributed (every team member has a copy of project on his/her machine)
-- Git is a distributed system
-- Free
-- Open Source
-- Super Fast
-- Scalable
-- Cheap Branching/Merging
-- It is used by majority of software developers
+### Apply Color for CSS?
+- Color is a good way to start learning about CSS
+- You can either type in the color you want to use or get the specific code that is specific to a specific color
 
 ### What we learned and completed on Day 02
 
