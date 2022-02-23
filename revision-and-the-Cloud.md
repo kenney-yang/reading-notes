@@ -6,7 +6,7 @@
 - Git is a Version Control System (DVCS) that stores data in a file system made up of snapshots.
 - Record changes in what is called a repository (repo), where we can see who made changes "when" and "what"
 - Without Version Control System, we would have to store different versions on our systems and constantly emailing back and forth (inefficient!)
-- Simply put, it ## 1)Tracks history and 2) Allows developers to work together ##
+- Simply put, it ## 1) Tracks history and 2) Allows developers to work together ##
 
 ### Why Git?
 - There is two VCS: centralized (single point of failure if server fails) and distributed (every team member has a copy of project on his/her machine)
