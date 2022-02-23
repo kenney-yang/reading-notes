@@ -9,13 +9,30 @@
 - You can ask the user for inputs and enteract with the users (behavior).
 - DOM means page
 
+
 ### How the language is written?
 - camelCase (it starts with a lowercase before another word that starts with Uppercase)
+- consolde.log("Proof of life!")
+- var we are going to use mostly in 102
+- let we are going to use if the variable is going to change values
+- const we awre going to use if the value will never change
+- changing values is not the same as updating a value
+- vanilla JAVASCRIPT uses var
+- ; is used at the end of each statement
+- it doesn't necessarily care about space
+- prompt - call a function or method is built into JAVASCRIPT (ask the user for something)
+
+### What is DOM?
+- Document Object Model - 
+- 
+
+### What is Boolean?
+- Something that is true or false
 
 ### Features
-- Variables
-- Strings
-- Numbers
+- Variables - like a bucket that hold strings
+- Strings - data type
+- Numbers - 
 - Arrays
 
 ### JavaScript building blocks
