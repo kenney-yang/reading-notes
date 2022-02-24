@@ -1,13 +1,11 @@
 # My Learning Journal
-
+02/24/2022
 ## Day 04 Programming with JAVASCRIPT
-### What is JAVASCRIPT?
-- JAVA is not the same thing as JAVASCRIPT. It is like car and carpet, might sound the same but they're completely different.
-- The reason why their names are similar was because JAVA came first and it was popular. JAVA has a rough learning curve but really robust. 
-- Majority of the websites are written in JAVASCRIPT.
-- In the financial industry, they're written in JAVA. 
-- You can ask the user for inputs and enteract with the users (behavior).
-- DOM means page
+### PROGRAMMING
+- Computer is only doing exactly what we want it do
+- JAVAScript is just another language that speaks to the computer
+- Best to write all your instructions in plain English and translate that into JavaScript
+- 
 
 
 ### How the language is written?
@@ -40,9 +38,12 @@
 - Functions
 - Events
 
-### JavaScript objects
-- Most things are objects
-- Can create your own objects to encapsulate related functions and variables into efficient packages
+### Completed tasks in class
+- Breakout room in Zoom 1st time: (Andrew, Elizabeth, Darius)
+  - Taught the robot how to put on a sweater
+  - Each person wrote out the instructions
+  - Gave your sequence of commands to the robot
+- Breakout room in Zoom 2nd time: 
 
 ### Resources
 - Code.org has a series of videos to watch to learn about programming
