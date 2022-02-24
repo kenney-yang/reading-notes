@@ -7,8 +7,8 @@
 - Best to write all your instructions in plain English and translate that into JavaScript
 - 
 
-
-### How the language is written?
+### Control flow 
+- Control flow means that when you read a script, you must not only read from start to finish but also look at program structure and how it affects order of execution.
 - camelCase (it starts with a lowercase before another word that starts with Uppercase)
 - consolde.log("Proof of life!")
 - var we are going to use mostly in 102
@@ -43,7 +43,7 @@
   - Taught the robot how to put on a sweater
   - Each person wrote out the instructions
   - Gave your sequence of commands to the robot
-- Breakout room in Zoom 2nd time: 
+- Breakout room in Zoom 2nd time: (
 
 ### Resources
 - Code.org has a series of videos to watch to learn about programming
