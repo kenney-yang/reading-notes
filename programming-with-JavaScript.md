@@ -43,7 +43,7 @@
   - Taught the robot how to put on a sweater
   - Each person wrote out the instructions
   - Gave your sequence of commands to the robot
-- Breakout room in Zoom 2nd time: (
+- Breakout room in Zoom 2nd time: 
 
 ### Resources
 - Code.org has a series of videos to watch to learn about programming
