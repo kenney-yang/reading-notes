@@ -23,8 +23,7 @@
 - prompt - call a function or method is built into JAVASCRIPT (ask the user for something)
 
 ### What is DOM?
-- Document Object Model - 
-- 
+- Document Object Model
 
 ### What is Boolean?
 - Something that is true or false
