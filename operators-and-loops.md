@@ -2,68 +2,45 @@
 02/24/2022
 ## Day 04 Operators and Loops in JAVASCRIPT
 ### PROGRAMMING
-- Computer is only doing exactly what we want it do
-- JAVAScript is just another language that speaks to the computer
-- Best to write all your instructions in plain English and translate that into JavaScript
-- 
-
-### Control flow 
-- Control flow means that when you read a script, you must not only read from start to finish but also look at program structure and how it affects order of execution.
-
-### Reminder 
-- camelCase (it starts with a lowercase before another word that starts with Uppercase)
-- consolde.log("Proof of life!")
-- var we are going to use mostly in 102
-- let we are going to use if the variable is going to change values
-- const we awre going to use if the value will never change
-- changing values is not the same as updating a value
-- vanilla JAVASCRIPT uses var
-- ; is used at the end of each statement
-- it doesn't necessarily care about space
-- prompt - call a function or method is built into JAVASCRIPT (ask the user for something)
-
-### What is Refactoring?
-- Calling a function and use it multiple times
 
 
-### What is Function?
-- It's a verb, asking to do something
-- function addTwoNumbers() = add is telling it what to do
-- code block is shown in between these {} = literally a block of code
-- augment (when invoked) will fulfill the parameter
-- You first have to define how to do it and then you give the instructions
-- flag indentify what it is you're calling for
-- Call your function only after you define it
-- Calling it is the same as invokin it
+### Expressions and Operators
+- Assignment operators (=) is used to assign a value to a variable. 
+- Comparison operators: compares its operands and returns a logical value based on whether the comparison is true. 
+  - Equal (==) Returns true if the operands are equal
+  - Not equal (!=) Returns true if the operands are not equal
+  - Strict equal (===) Returns true if the operands are equal and of the same type.
+  - Strict not equal (!==) Returns true if the operands are of the same type but not equal, or are of different type.
+  - Greater than (>) Returns true if the left operand is greater than the right operand.
+  - Greater than or equal (>=) Returns true if the left operand is greater than or equal to the right operand.
+  - Less than (<) Returns true if the left is less than the right operand.
+  - Less than or equal (<=) Returns true if the left operand is less than or equal to the right operand.
 
-### Features
-- Variables - like a bucket that hold strings
-- Strings - data type
-- Numbers - 
-- Arrays
+### Loops
+- Loops offer a quick and easy way to do something repeatedly. 
+- Repeat an actio some number of times. 
+- Various loop mechanisms offer different ways to determine the start and end points of the loop.
 
-### JavaScript building blocks
-- Conditional statements
-- Loops
-- Functions
-- Events
+### for Loop EXAMPLE
+- for(let i = 0; i < 10; i++)
+    - for keyword tells JS we are writing a for loop
+    - everything in the parenthesis are statements (there's 3 in the example)
+    - let is the initializer statement: sets our counter variable to start at a number
+    - < conditional statement: tells the loop how many loops to run for
+    - i++ increment statement: adds to the counter variable to move it up a loop
+    - i++ is the same as i = i + 1
+
 
 ### Completed tasks in class
 - Breakout room in Zoom 1st time: (Andrew, Elizabeth, Darius)
   - Taught the robot how to put on a sweater
   - Each person wrote out the instructions
   - Gave your sequence of commands to the robot
-- Breakout room in Zoom 2nd time: (
 
 ### Resources
-- Code.org has a series of videos to watch to learn about programming
-- https://en.wikipedia.org/wiki/JavaScript#Creation_at_Netscape (a quick primer on why things ended up the way they did)
-- developer.mozilla.org 
-  
+- replit.com you can write code in there to give you immediate visual to test code
+- emojpedia.org
+- freecodecamp.org/learn
+- free JavaScript courses from codeacademy, 20 hrs worth of lessons there.
 
-  
 [Home Page](https://kenney-yang.github.io/reading-notes/)
-
-
-
-

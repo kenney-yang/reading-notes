@@ -5,7 +5,6 @@
 - Computer is only doing exactly what we want it do
 - JAVAScript is just another language that speaks to the computer
 - Best to write all your instructions in plain English and translate that into JavaScript
-- 
 
 ### Control flow 
 - Control flow means that when you read a script, you must not only read from start to finish but also look at program structure and how it affects order of execution.
@@ -24,7 +23,6 @@
 
 ### What is Refactoring?
 - Calling a function and use it multiple times
-
 
 ### What is Function?
 - It's a verb, asking to do something
