@@ -19,7 +19,7 @@ You can find my github profile [here](https://github.com/kenney-yang)
 - [revision-and-the-Cloud](https://kenney-yang.github.io/reading-notes/revision-and-the-Cloud)
 - [structure-web-pages-with-HTML](https://kenney-yang.github.io/reading-notes/structure-web-pages-with-HTML)
 - [design-web-pages-with-CSS](https://kenney-yang.github.io/reading-notes/design-web-pages-with-CSS)
-- [dynamic-web-pages-with-JavaScript](https://kenney-yang.github.io/reading-notes/dynamic-web-pages-with-JavaScript)
+- [dynamic-web-pages-with-JavaScript](https://kenney-yang.github.io/reading-notes/dynamic-web-pages-with-Javascript)
 - [programming-with-JavaScript](https://kenney-yang.github.io/reading-notes/programming-with-Javascript)
 - [operators-and-loops](https://kenney-yang.github.io/reading-notes/operators-and-loops)
 
