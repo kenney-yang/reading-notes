@@ -18,7 +18,7 @@
 
 ### Loops
 - Loops offer a quick and easy way to do something repeatedly. 
-- Repeat an actio some number of times. 
+- Repeat an action some number of times. 
 - Various loop mechanisms offer different ways to determine the start and end points of the loop.
 
 ### for Loop EXAMPLE
